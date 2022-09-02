@@ -1,6 +1,6 @@
 # CRUD dan LiveSearch menggunakan jQuery
 
-loader animation from Pixilart
+loader animation from Tenor
 !![loader](https://user-images.githubusercontent.com/110079113/188042597-73c1a94a-299a-45ed-9a55-fc60b5da1c41.gif)
 
 CRUD sederhana dengan Fitur LiveSearching menggunakan JavaScript danJQuery. LiveSearching sendiri adalah fitur search bisa/tanpa menggunakan tombol 'search/cari'.
@@ -14,4 +14,4 @@ Fitur LiveSearching akan secara instan mencari data yang diinginkan disaat user 
 
 ## Requirements
 - [jQuery](https://jquery.com/download/)
-- ![loader](https://tenor.com/search/preloader-gifs-gifs)
+- ![loader][(https://tenor.com/search/preloader-gifs-gifs)]
