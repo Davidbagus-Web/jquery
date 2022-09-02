@@ -14,4 +14,4 @@ Fitur LiveSearching akan secara instan mencari data yang diinginkan disaat user 
 
 ## Requirements
 - [jQuery](https://jquery.com/download/)
-- ![loader][(https://tenor.com/search/preloader-gifs-gifs)]
+- [loader](https://tenor.com/search/preloader-gifs-gifs)
